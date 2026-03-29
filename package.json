@@ -1,8 +1,9 @@
 {
   "name": "figpro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Real-time collaborative whiteboard built with Next.js, Fabric.js, and Liveblocks.",
+  "license": "MIT",
   "author": "Mykhailo Yarytskiy",
   "homepage": "https://github.com/mmmihaeel/figpro",
   "bugs": {
